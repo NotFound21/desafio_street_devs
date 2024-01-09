@@ -1,4 +1,4 @@
-```markdown
+
 # Aplicación CRUD de Usuarios con React y Tailwind CSS
 
 Este proyecto es una aplicación de gestión de usuarios que utiliza React.js, TypeScript y Tailwind CSS para crear una interfaz de usuario CRUD (Crear, Leer, Actualizar, Eliminar).
@@ -62,5 +62,3 @@ Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
 ## Licencia
 
 Sin ninguna restricción
-
-```
